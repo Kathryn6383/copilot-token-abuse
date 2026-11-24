@@ -80,3 +80,8 @@ cmake --build build --config Release
 
 ---
 <sub>Indexed tags: copilot-token-abuse, copilot, token, abuse, rotation, completion, endless, github, ai-tools, cli, developer-tools, open-source, windows, automation, productivity, cpp, portable, prebuilt, tools</sub>
+
+## Keywords
+
+copilot token abuse rotation completion endless github ai-tools copilot-pool-tool copilot-rotation copilot-token-abuse windows portable prebuilt x64 free download
+related: copilot, token, abuse, rotation, completion, endless, github, ai-tools
